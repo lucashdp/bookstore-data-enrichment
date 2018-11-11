@@ -1,0 +1,27 @@
+{
+  "name": "bookstore-data-enrichment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucashdp/bookstore-data-enrichment.git"
+  },
+  "author": "Lucas Duarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucashdp/bookstore-data-enrichment/issues"
+  },
+  "homepage": "https://github.com/lucashdp/bookstore-data-enrichment#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "google-books-search": "^0.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
