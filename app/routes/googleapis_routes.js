@@ -7,13 +7,11 @@ module.exports = function (app) {
         if (req.query.search)
             search = req.query.search;
 
-        console.log(search);
         books.search(search, function (error, results) {
             if (!error) {
                 res.send(results);
             } else {
                 res.send(error);
-                console.log(error);
             }
         });
     });
