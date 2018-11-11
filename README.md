@@ -12,6 +12,8 @@ Bookstore-data-enrichment is a data enrichment microservice for a bookstore micr
 ##### GET REGION
 - **[<code>GET</code> v1/public/books](https://github.com/lucashdp/bookstore-data-enrichment/blob/master/api-documentation/GET_GOOGLE_BOOKS.md)**
 
+- **[<code>GET</code> v1/public/book/:bookId](https://github.com/lucashdp/bookstore-data-enrichment/blob/master/api-documentation/GET_GOOGLE_BOOK.md)**
+
 ## Pre-Requisites
 
 - NodeJS is a pre requisite. You will use the Node Package Manager (npm).
