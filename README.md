@@ -12,7 +12,7 @@ Bookstore-data-enrichment is a data enrichment microservice for a bookstore micr
 ##### GET REGION
 - **[<code>GET</code> v1/public/books](https://github.com/lucashdp/bookstore-data-enrichment/blob/master/api-documentation/GET_GOOGLE_BOOKS.md)**
 
-- **[<code>GET</code> v1/public/book/:bookId](https://github.com/lucashdp/bookstore-data-enrichment/blob/master/api-documentation/GET_GOOGLE_BOOK.md)**
+- **[<code>GET</code> v1/public/books/:bookId](https://github.com/lucashdp/bookstore-data-enrichment/blob/master/api-documentation/GET_GOOGLE_BOOK.md)**
 
 ## Pre-Requisites
 

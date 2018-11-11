@@ -15,7 +15,7 @@ module.exports = function (app) {
             }
         });
     });
-    app.get('/v1/public/book/:bookId', (req, res) => {
+    app.get('/v1/public/books/:bookId', (req, res) => {
         let bookId = 0;
 
         if (req.params.bookId)
