@@ -1,5 +1,5 @@
 # bookstore-data-enrichment
-Bookstore-data-enrichment is a microservice for data enrichment in for a bookstore microservice.
+Bookstore-data-enrichment is a data enrichment microservice for a bookstore microservice.
 **[This data enrichment is powered by googleapis](https://developers.google.com/books/docs/v1/getting_started)**. The reason for this API is a postgraduate work in Software Architecture at PUC MINAS, in the field of Backend Architecture and Microservices.
 
 ## Deploy
