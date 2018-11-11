@@ -3,7 +3,7 @@ Bookstore-data-enrichment is a data enrichment microservice for a bookstore micr
 **[This data enrichment is powered by googleapis](https://developers.google.com/books/docs/v1/getting_started)**. The reason for this API is a postgraduate work in Software Architecture at PUC MINAS, in the field of Backend Architecture and Microservices.
 
 ## Deploy
-**[This API was deployed at https://bookstore-data-enrichment-lucashdp.herokuapp.com](https://bookstore-data-enrichment-lucashdp.herokuapp.com)**
+**[This API was deployed at https://bookstore-data-enrichment.herokuapp.com/](https://bookstore-data-enrichment.herokuapp.com)**
 
 ## Endpoint
 
