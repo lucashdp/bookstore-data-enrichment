@@ -12,7 +12,7 @@ Returns a listing of books objects, powered by googleapis.
 ## Example
 **Request URI**
 
-    ${host}/v1/public/audits?search=javascript
+    https://bookstore-data-enrichment.herokuapp.com/v1/public/books?search=javascript
 
 **Return**
 ``` json
